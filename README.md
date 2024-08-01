@@ -1,4 +1,3 @@
-```markdown
 # PowerPoint Material Maker using GPT
 
 Bagian backend dari proyek web development yang menggunakan GPT untuk membuat materi presentasi PowerPoint. Aplikasi ini memungkinkan pengguna untuk menghasilkan presentasi, melihat riwayat presentasi, dan menghapus presentasi yang sudah tidak diperlukan.
